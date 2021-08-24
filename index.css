@@ -1,0 +1,34 @@
+body{
+  background-image: url("pexels-cátia-matos-1072179.jpg");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  filter: invert(0.2);
+}
+
+h2{
+    color: white;
+    margin-top: 200px;
+
+}
+h3{
+    color: white;
+    font-size: 50px;
+    margin: 5px ;
+}
+button{
+    padding: 5px 10px;
+    margin-left: 5px;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+}
+#save-btn{
+    background: darkblue;
+}
+#increment-btn{
+    background: darkgreen;
+}
+p{
+    color: white;
+}
